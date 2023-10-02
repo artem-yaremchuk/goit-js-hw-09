@@ -44,4 +44,5 @@ function handleSubmit(event) {
 
     currentDelay += step;
   }
+  form.reset();
 }
